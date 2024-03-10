@@ -4,8 +4,8 @@
 
   <parent>
     <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-parent</artifactId>
-    <version>3.1.5</version>
+    <artifactId>spring-boot-starter-oauth2-client</artifactId>
+    <version>3.1.9</version>
   </parent>
 
   <groupId>org.owasp.webgoat</groupId>
