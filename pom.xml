@@ -5,9 +5,9 @@
 <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.6.4</version>
+    <version>3.2.3</version>
 </parent>
-    
+  
   <groupId>org.owasp.webgoat</groupId>
   <artifactId>webgoat</artifactId>
   <version>2023.9-SNAPSHOT</version>
