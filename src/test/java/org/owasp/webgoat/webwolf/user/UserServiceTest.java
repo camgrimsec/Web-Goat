@@ -69,7 +69,7 @@ public class UserServiceTest {
   @Test
   public void testAddUser() {
     var username = "guest";
-    var password = "guest";
+    var password = System.getenv("SECRET_PW");
 
     sut.addUser(username, password);
 
